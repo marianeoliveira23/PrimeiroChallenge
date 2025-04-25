@@ -9,6 +9,7 @@ struct TelaOnze: View {
     let positions = [
         CGPoint(x: 410, y: 180),
         CGPoint(x: 410, y: 180),
+        CGPoint(x: 410, y: 180),
         CGPoint(x: 410, y: 180)
     ]
     
